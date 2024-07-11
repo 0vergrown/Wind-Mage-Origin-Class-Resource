@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "ambientocclusion": false,
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 435979
+      },
+      "model": "minecraft:item/wind_grimoire/wind_grimoire_closed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 567538
+      },
+      "model": "minecraft:item/wind_grimoire/wind_grimoire_opened"
+    }
+  ]
+}

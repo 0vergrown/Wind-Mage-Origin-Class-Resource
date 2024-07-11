@@ -1,0 +1,20 @@
+{
+  "origin.origins-classes.wind_mage.name": "Wind Mage",
+  "origin.origins-classes.wind_mage.description": "Placeholder",
+
+  "power.origins-classes.wind_mage/arcane_conduit.name": "Arcane Conduit",
+  "power.origins-classes.wind_mage/arcane_conduit.description": "Activate this mode to open your grimoire, channeling its ancient energies to cast spells. Spells cannot be cast without the grimoire open. [Shift + Right-Click]",
+
+  "power.origins-classes.wind_mage/gust_blade.name": "Gust Blade",
+  "power.origins-classes.wind_mage/gust_blade.description": "Sends a slicing blade of wind towards an enemy, dealing damage and knocking them back.",
+  "text.actionbar.wind_mage.gust_blade.spell_success":"The air slices forward as you cast Gust Blade!",
+  "text.actionbar.wind_mage.gust_blade.spell_failed":"The air fails to respond; your Gust Blade dissolves into a mere breeze.",
+
+  "power.origins-classes.wind_mage/veil_of_the_zephyr.name": "Veil of the Zephyr",
+  "power.origins-classes.wind_mage/veil_of_the_zephyr.description": "Conceal your true Aeroquint strength from others. Initially requires focus to maintain, but with mastery, it can be sustained passively.",
+  
+  "text.actionbar.wind_mage.aeroquint.wake_up_message": "You awaken with the whispering winds revitalizing your spirit. Your Aeroquint flows fully restored.",
+
+  "text.actionbar.wind_mage.spell_cast.left_click":"L",
+  "text.actionbar.wind_mage.spell_cast.right_click":"R"
+}
