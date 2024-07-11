@@ -1,0 +1,1 @@
+# Wind-Mage-Origin-Class-Resource
