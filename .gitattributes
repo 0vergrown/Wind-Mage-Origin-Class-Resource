@@ -1,0 +1,5 @@
+*.json linguist-detectable=true
+*.mcfunction linguist-detectable=true
+*.mcmeta linguist-detectable=true
+*.png linguist-detectable=true
+*.ogg linguist-detectable=true
